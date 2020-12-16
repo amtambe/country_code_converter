@@ -1,2 +1,5 @@
 # cow_code_converter
-Python repo to convert country codes from Correlates of War (COW) format to country name (e.g. 990 --> Samoa). COW to ISO and other formats coming later.
+
+A set of Python classes that helps convert country codes between different formats. 
+It includes ISO and COW (Correlates of War) for now but other codes will be added and the
+codes will be unified later. 
